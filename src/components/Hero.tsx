@@ -77,7 +77,7 @@ const Hero = () => {
               className="rounded-2xl shadow-2xl"
             />
             <div className="absolute -bottom-6 -left-6 bg-white p-6 rounded-xl shadow-xl">
-              <div className="text-3xl font-bold text-emerald-500">$2,500</div>
+              <div className="text-3xl font-bold text-emerald-500">₹50,000</div>
               <div className="text-gray-600">Average annual savings</div>
             </div>
           </div>
